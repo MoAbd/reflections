@@ -5,3 +5,6 @@ to do it by (git init).
 *How is the staging area different from the working directory and the repository? What value do you think it offers?
 -stagging area is a stage between working directory and repository 
 
+*How can you use the staging area to make sure you have one commit per logical change?
+-after making changes in working directory , we can files have same logical changes to be commited.
+
