@@ -1,0 +1,7 @@
+*What happens when you initialize a repository? Why do you need to do it?
+-it creates  a heading directory include metadata files 
+to do it by (git init).
+
+*How is the staging area different from the working directory and the repository? What value do you think it offers?
+-stagging area is a stage between working directory and repository 
+
