@@ -8,3 +8,6 @@ to do it by (git init).
 *How can you use the staging area to make sure you have one commit per logical change?
 -after making changes in working directory , we can files have same logical changes to be commited.
 
+*What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-making new version ,test new feature or test some changes in the whole project.
+
